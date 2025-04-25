@@ -4,6 +4,8 @@
 
 ![IPL_Dashboard_Preview](https://github.com/user-attachments/assets/ad53dcb9-664e-47cc-9afd-254cde00f6c2)
 
+---
+
 ## 📋 Project Description
 
 This project presents a comprehensive **IPL (Indian Premier League) Dashboard** designed using **Power BI** and showcased through a custom **HTML webpage**.  
