@@ -2,7 +2,7 @@
 
 # 🏏 IPL 2025 Dashboard  - Power BI Project
 
-![Dashboard Preview](images/dashboard-preview.png)
+![IPL_Dashboard_Preview](https://github.com/user-attachments/assets/ad53dcb9-664e-47cc-9afd-254cde00f6c2)
 
 ## 📋 Project Description
 
