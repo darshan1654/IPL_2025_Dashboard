@@ -41,7 +41,7 @@ Built to provide an **interactive** and **visually appealing** experience, ideal
 
 ## 📥 How to Use
 1. Clone this repo or download the files.
-2. Open `IPL_2025_Dashboard.pbix` with **Power BI Desktop**.
+2. Download and Open `IPL_2025_Dashboard.pbix` with **Power BI Desktop**.
 
 ---
 
