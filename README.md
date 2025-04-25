@@ -1,6 +1,6 @@
 ---
 
-# 🏏 IPL Dashboard 2025 - Power BI Project
+# 🏏 IPL 2025 Dashboard  - Power BI Project
 
 ![Dashboard Preview](images/dashboard-preview.png)
 
@@ -37,7 +37,7 @@ Built to provide an **interactive** and **visually appealing** experience, ideal
 
 ## 📥 How to Use
 1. Clone this repo or download the files.
-2. Open `IPL_Dashboard_2025.pbix` with **Power BI Desktop**.
+2. Open `IPL_2025_Dashboard.pbix` with **Power BI Desktop**.
 
 ---
 
@@ -46,7 +46,7 @@ Built to provide an **interactive** and **visually appealing** experience, ideal
 
 ---
 
-# 📢 Note
+## 📢 Note
 This is a personal academic/project showcase and not linked to official IPL Tournament.
 
 ---
