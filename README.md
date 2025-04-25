@@ -47,7 +47,7 @@ Built to provide an **interactive** and **visually appealing** experience, ideal
 
 ## 🙏 Acknowledgements
 - Power BI community for tools and visuals.
-- API cricdata.org
+- API [cricdata.org](https://cricketdata.org/)
 
 ---
 
